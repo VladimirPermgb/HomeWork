@@ -7,4 +7,6 @@ Hi
 
 Added after
 
-then
+* Список 1
+* Список 2
+
