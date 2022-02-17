@@ -1,4 +1,5 @@
-# First file version control
+# Шпаргалка по Git'у
+
 
 Hello
 
