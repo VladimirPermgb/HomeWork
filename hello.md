@@ -6,7 +6,9 @@
 
 *git checkout* - возврат к коммиту
 
-*git diff commit1 commit2* - сравнение разницы между двух коммитами
+*git diff commit1 commit2* - сравнение между двумя коммитами
+
+
 
 ## Edit
 *Курсив.*
