@@ -4,7 +4,9 @@
 
 *git version* - отображает текущую версию git
 
+*git checkout* - возврат к коммиту
 
+*git diff commit1 commit2* - сравнение разницы между двух коммитами
 
 ## Edit
 *Курсив.*
@@ -19,4 +21,3 @@
 1. First
 2. Second
 
-test
